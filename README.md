@@ -1,3 +1,3 @@
 # portfolio
 personal WebPage. 
-Iam Sapna.
+I am Sapna.
